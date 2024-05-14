@@ -1,0 +1,2972 @@
+{
+  "customizedMobs": [
+    {
+      "identifier": "minecraft:guardian",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "supplementaries:slingshot_projectile",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:emu",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:wolf",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:illusioner",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:myrmex_sentinel",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:multipart",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:snow_leopard",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:void_worm",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:evoker_fangs",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:comb_jelly",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:cylcops_multipart",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:froststalker",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:tambaqui",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:pixie",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:squid",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:phantom",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "lfpirates:primed_barrel_bomb",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:birch_fish_mount",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:giant",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:potion",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:spruce_fish_mount",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:bunfungus",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:eye_of_ender",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:sea_bear",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "biomesoplenty:boat",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:leafcutter_ant",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:mosquito_spit",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:ghost_sword",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:gar",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:sea_serpent_arrow",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:moose",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:boat",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:elephant",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:stymphalian_arrow",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:atlantic_cod",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:lightning_dragon",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:orca",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:dark_oak_fish_mount",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:spider",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:skelewag",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:komodo_dragon",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:pacific_halibut",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "recruits:horseman",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:centipede_body",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "recruits:nomad",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquamirae:captain_cornelia",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "takesapillage:skirmisher",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquamirae:pillagers_patrol",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "workers:fisherman",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:hummingbird",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:dragon_skull",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:zoglin",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "lootr:lootr_minecart",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:arapaima",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:stray",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:zombified_piglin",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "recruits:patrol_leader",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "quark:crab",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "quark:totem",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:tiger",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "workers:cattle_farmer",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:warped_mosco",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:red_shrooma",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:brown_trout",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:raccoon",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:chest_minecart",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:starshell_turtle",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "smallships:cannon_ball",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:siren",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:pig",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:void_worm_part",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:husk",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:crow",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:villager",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:iron_golem",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:panda",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:cat",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:lobster",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquamirae:maze_mother",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:dread_knight",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:arrow",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:hydra_breath",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquamirae:golden_moth",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:centipede_head",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:straddler",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:dragon_multipart",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:wandering_trader",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "workers:miner",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:seal",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:hydra_multipart",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "workers:farmer",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "workers:chicken_farmer",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "guardvillagers:guard",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:deathworm_egg",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquamirae:tortured_soul",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "crittersandcompanions:otter",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:mob_skull",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:myrmex_swarmer",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "supplementaries:rope_arrow",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "tconstruct:fancy_item_frame",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:ghast",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:jerboa",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:cow",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:vex",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:red_grouper",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "recruits:captain",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:mungus",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "quark:shiba",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "supplementaries:bomb",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:dragon_fireball",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:platypus",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "upgrade_aquatic:pike",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:pillager",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "snowrealmagic:snow",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "upgrade_aquatic:great_thrasher",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:wither",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:player",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:grizzly_bear",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "farmersdelight:rotten_tomato",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:ice_shard",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:cave_spider",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:parrot",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "tconstruct:sky_slime",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:dread_lich",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:arrau_turtle",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "quark:gravisand",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:dragon_arrow",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "upgrade_aquatic:lionfish",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:minecart",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:cockatrice_egg",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:frilled_shark",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:ender_pearl",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:pollock",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:bald_eagle",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:wither_skull",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:elder_guardian",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:turtle",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:rocky_roller",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:acacia_fish_mount",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:fire_dragon_charge",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:silverfish",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "supplementaries:falling_urn",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:gelada_monkey",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:cachalot_whale",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:tnt",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:gorilla",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:void_portal",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:dread_ghoul",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "upgrade_aquatic:ululu",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:small_fireball",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:spawner_minecart",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:experience_bottle",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:centipede_tail",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "recruits:bowman",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:straddleboard",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:blaze",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:item_frame",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:sunbird",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:deathworm",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:zombie",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:evoker",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "tconstruct:ender_slime",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:ocelot",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:chicken",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "crittersandcompanions:sea_bunny",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "quark:stoneling",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:hydra_arrow",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:bayad",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "quark:pickarang",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:seagull",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "upgrade_aquatic:thrasher",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "upgrade_aquatic:immortal_jellyfish",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:gorgon",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:mantis_shrimp",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "quark:forgotten",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:pollen_ball",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:crimson_mosquito",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "takesapillage:clay_golem",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:ice_dragon",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:flutter",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:magma_cube",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "takesapillage:archer",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:tarantula_hawk",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:fireball",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "workers:lumberjack",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:furnace_minecart",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquamirae:maze_rose",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "crittersandcompanions:dumbo_octopus",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:atlantic_herring",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:leash_knot",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:chain_tie",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquamirae:maw",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:roadrunner",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:command_block_minecart",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:stone_statue",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "smallships:drakkar",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:bat",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:firework_rocket",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:cosmaw",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "quark:glass_frame",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:mooshroom",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:hippocampus",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "workers:merchant",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:donkey",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:flying_fish",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "tconstruct:glow_ball",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "quark:quark_boat",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:fire_dragon",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:sea_serpent",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:tnt_minecart",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "quark:stool",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:item",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "quark:skull_pike",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "valkyrienskies:vs_physics_entity",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "blueprint:boat",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "recruits:crossbowman",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:bone_serpent",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:crocodile",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:dread_beast",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:synodontis",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:bone_serpent_part",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:pufferfish",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:marker",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:gust",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:catfish",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "quark:parrot_egg",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "quark:soul_bead",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:capuchin_monkey",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:pixie_charge",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:dread_thrall",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "tconstruct:crystalshot",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "upgrade_aquatic:sonar_wave",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:laviathan",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:bison",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:cachalot_echo",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "smallships:cog",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:experience_orb",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:shulker",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:sand_shot",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:cockroach_egg",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:salmon",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:cosmic_cod",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "recruits:recruit_shieldman",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:bluegill",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:snow_golem",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "quark:wraith",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:spectral_water_arrow",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:hippogryph_egg",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:piglin",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:stymphalian_bird",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:warped_toad",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:stradpole",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:mule",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:blackfish",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "crittersandcompanions:dragonfly",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:anteater",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:perch",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:rattlesnake",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:cod",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquamirae:eel",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "workers:shepherd",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:skeleton",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:anaconda_part",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "sophisticatedbackpacks:everlasting_backpack_item",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:armor_stand",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquamirae:anglerfish",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:carp",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:vine_lasso",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "recruits:recruit",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:anaconda",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "tconstruct:flint_shuriken",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:minnow",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:witch",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:dragon_egg",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:myrmex_royal",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:endergrade",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:mimic_octopus",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:falling_block",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:gazelle",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:bobber",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:tropical_fish",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "supplementaries:falling_sack",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:llama",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:rainbow_trout",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:emu_egg",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "supplementaries:red_merchant",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:box_turtle",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:amphithere",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "crittersandcompanions:koi_fish",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "supplementaries:pearl_marker",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:hydra",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:fox",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:catfish",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:glow_squid",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:painting",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:strider",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:goat",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:enderiophage_rocket",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:brown_shrooma",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:void_worm_shot",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:slime",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:creeper",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:myrmex_queen",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:oak_fish_mount",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:sheep",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:atlantic_halibut",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:hammerhead_shark",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:vindicator",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:capitaine",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:water_arrow",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:tide_trident",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "upgrade_aquatic:goose",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:ender_dragon",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:squid_grapple",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "quark:frog",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:tusklin",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:ice_dragon_charge",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:alligator_snapping_turtle",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:enderiophage",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "upgrade_aquatic:cassiopea_jellyfish",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:guster",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:myrmex_egg",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "quark:foxhound",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:ghost",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:terrapin",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:stymphalian_feather",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:skeleton_horse",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:tossed_item",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "recruits:messenger",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:shulker_bullet",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "tconstruct:fluid_spit",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "supplementaries:brick_projectile",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:hemolymph",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:maned_wolf",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "crittersandcompanions:red_panda",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:cyclops",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "workers:swineherd",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:piranha",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "crittersandcompanions:ferret",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:bee",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:boulti",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:snowball",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:llama_spit",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:pink_salmon",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:end_crystal",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "smallships:brigg",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:dropbear",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "workers:beekeeper",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "tconstruct:indestructible_item",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:zombie_villager",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:hopper_minecart",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "upgrade_aquatic:flare",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:trader_llama",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:giant_squid",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:lightning_dragon_charge",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:devils_hole_pupfish",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:sea_serpent_bubbles",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:trident",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:area_effect_cloud",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "tconstruct:earth_slime",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:lightning_bolt",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:dread_lich_skull",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:tuna",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:shoebill",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:drowned",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:polar_bear",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "valkyrienskies:ship_mounting_entity",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:mimicube",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:endermite",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:rabbit",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:jellyfish",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:toucan",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:spectral_arrow",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:shark_tooth_arrow",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "crittersandcompanions:leaf_insect",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "smallships:galley",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:dolphin",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "musketmod:bullet",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:jungle_fish_mount",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:troll",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "tconstruct:terracube",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:egg",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "supplementaries:falling_ash",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:glow_item_frame",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "tconstruct:efln_ball",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:cockatrice",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:horse",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:spectre",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:dread_horse",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "upgrade_aquatic:perch",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:myrmex_soldier",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquamirae:poisoned_chakra",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "quark:chest_passenger",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "upgrade_aquatic:nautilus",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:kangaroo",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquamirae:spinefish",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "upgrade_aquatic:box_jellyfish",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "tconstruct:quartz_shuriken",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:enderman",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "workers:rabbit_farmer",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:fishing_bobber",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "quark:toretoise",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:axolotl",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquamirae:luminous_jelly",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "supplementaries:dispenser_minecart",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:fly",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:soul_vulture",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:myrmex_worker",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:hippogryph",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:cockroach",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:zombie_horse",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:dread_scuttler",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:hoglin",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "supplementaries:falling_lantern",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:tasmanian_devil",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:muskellunge",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "aquaculture:smallmouth_bass",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:wither_skeleton",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "iceandfire:amphithere_arrow",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:piglin_brute",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "alexsmobs:blobfish",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "takesapillage:legioner",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:ravager",
+      "Physics Type": 5,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    }
+  ]
+}
